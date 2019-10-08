@@ -1,4 +1,4 @@
-﻿namespace WebServerPtI
+﻿namespace WebServer
 {
     partial class Form1
     {
